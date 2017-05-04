@@ -1,2 +1,1 @@
-# GoF Pattern realization #
-
+# GoF Patterns realization #
