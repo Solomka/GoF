@@ -1,0 +1,2 @@
+# GoF Pattern realization #
+
