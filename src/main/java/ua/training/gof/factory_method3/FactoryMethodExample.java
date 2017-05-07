@@ -1,4 +1,4 @@
-package ua.training.gof.factory_method3;
+  package ua.training.gof.factory_method3;
 
 import java.util.Date;
 
