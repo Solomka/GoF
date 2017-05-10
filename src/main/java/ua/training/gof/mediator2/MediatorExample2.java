@@ -78,8 +78,6 @@ class Admin extends User {
 
 class SimpleUser extends User {
 
-	Chat chat;
-
 	public SimpleUser(Chat chat, String name) {
 		super(chat, name);
 	}
